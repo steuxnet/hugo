@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://somename.onrender.com/"
 languageCode = "en-us"
 title = "Steuxnet's home on web"
 theme = "cactus"
