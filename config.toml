@@ -17,7 +17,7 @@ disqusShortname = "ink-demo"
 	subtitle = "Personal Blog, just to keep things on map."
 
 	# Optional 64x64 avatar image.
-	avatar = "./logo.jpg"
+	avatar = "https://img.freepik.com/free-vector/cute-boy-playing-with-skateboard-cartoon-vector-icon-illustration-people-sport-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-4016.jpg"
 	# Content types to disable Disqus on.
 	disableDisqusTypes = ["page"]
 	
