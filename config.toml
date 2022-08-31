@@ -17,7 +17,7 @@ disqusShortname = "ink-demo"
 	subtitle = "Personal Blog, just to keep things on map."
 
 	# Optional 64x64 avatar image.
-	avatar = "logo.jpg"
+	avatar = "./logo.jpg"
 	# Content types to disable Disqus on.
 	disableDisqusTypes = ["page"]
 	
@@ -52,12 +52,12 @@ weight = 4
 [[params.social]]
 name = "Github"
 icon = "github"
-url = "https://github.com/knadh/hugo-ink"
+url = "https://github.com/steuxnet/"
 
 [[params.social]]
-name = "RSS"
-icon = "rss"
-url = "/index.xml"
+name = "Linkedin"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/steuxnet/"
 
 [taxonomies]
    tag = "tags"
